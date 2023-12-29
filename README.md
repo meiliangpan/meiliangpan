@@ -4,8 +4,12 @@
 
 <h2>
   Hi there, Welcome to My Github Page 
+</h2>
+
+
+  My training is in cellular and molecular biology. Prior, to my career switch , I been working on modeling neurolgical diseases. during my last working experience I was exposed to potientail of applicating of artificial intelligence in drug discovery. 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2> 
+
 
 - #### 🦾: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -34,7 +38,7 @@
 
 
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meiliangpan&theme=dark&background=000000)](https://git.io/streak-stats)
+  <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meiliangpan&theme=dark&background=000000)](https://git.io/streak-stats)>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meiliangpan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meiliangpan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) >
 
